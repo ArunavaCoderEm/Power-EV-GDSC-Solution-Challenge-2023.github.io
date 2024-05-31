@@ -22,6 +22,7 @@ thereby reducing their waiting time at charging stations.
 ## Credits
 This project would not have been possible without the efforts of the following people:
 - Satyaki Dey &nbsp;[(@SatyakiDey75)](https://github.com/SatyakiDey75)
+- Arunava Dutta &nbsp;[(@ArunavaCoderEm)](https://github.com/ArunavaCoderEm)
 - Harshankit Raj &nbsp;[(@Harshankit2410)](https://github.com/Harshankit2410)
 - Snehashish Chowdhury &nbsp;[(@Technology15Sc)](https://github.com/Technology15Sc)
 - Arinjoy Pramanik &nbsp;[(@EchoCoder1729)](https://github.com/EchoCoder1729)
